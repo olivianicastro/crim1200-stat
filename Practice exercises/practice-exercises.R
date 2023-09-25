@@ -4,3 +4,4 @@ income.data <- read_csv("/Users/olivianicastro/Desktop/2023-2024 Fall/crim1200-s
 
 income.data
 
+asdfasdfasdfasdfasdfasdfckjal;skdjfal;ks djcl;kja sd;lkjf als;dkj f
